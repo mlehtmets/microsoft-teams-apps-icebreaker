@@ -154,7 +154,7 @@
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
-    <value>If you've got the inclination, set something up. See, meeting people *is* easy!</value>
+    <value>SpeedTalk is a way to get to know your colleague and create fun and useful relationships. Take 15 minutes and if you don't know how to start, here are some ideas: *What was the funniest thing you've seen recently online? What was the last thing you were really excited about? What are two of your favourite snacks?*</value>
     <comment>Second part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardMatchedText" xml:space="preserve">
@@ -162,7 +162,7 @@
     <comment>The text saying who the user has been matched up with</comment>
   </data>
   <data name="MatchUpCardTitleContent" xml:space="preserve">
-    <value>It's time for a match!</value>
+    <value>It's time for a SpeedTalk!</value>
     <comment>The title text for the pairup notification adaptive card</comment>
   </data>
   <data name="MeetupContent" xml:space="preserve">
