@@ -157,6 +157,10 @@
     <value>SpeedTalk is a way to get to know your colleague and create fun and useful relationships. Take 15 minutes and if you don't know how to start, here are some ideas: *What was the funniest thing you've seen recently online? What was the last thing you were really excited about? What are two of your favourite snacks?*</value>
     <comment>Second part of the match up card main content</comment>
   </data>
+    <data name="MatchUpCardContentPart3" xml:space="preserve">
+    <value>During the week find a suitable time for both of you and meet each other via Teams/phone or if you both are in the office, go outside and have a talk in the fresh air. Taking in part of SpeedTalk is voluntary. Just take at least 15 minutes to get to know your colleague.</value>
+    <comment>Third part of the match up card main content</comment>
+  </data>
   <data name="MatchUpCardMatchedText" xml:space="preserve">
     <value>You've been matched with {0}.</value>
     <comment>The text saying who the user has been matched up with</comment>
