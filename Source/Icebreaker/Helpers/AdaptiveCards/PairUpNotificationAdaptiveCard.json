@@ -41,6 +41,11 @@
           "type": "TextBlock",
           "text": "%matchUpCardContentPart2%",
           "wrap": true
+        },
+        {
+          "type": "TextBlock",
+          "text": "%matchUpCardContentPart3%",
+          "wrap": true
         }
       ]
     }
